@@ -9,5 +9,3 @@ Test
 ### Projects
 Test
 -Test
-
-![Mein Bild](assets/img/profilbild.jpg)
