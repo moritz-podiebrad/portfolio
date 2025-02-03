@@ -2,7 +2,7 @@
 ### Education
 Chemistry and Management, Bsc
   
-##Projects
+## Projects
 ### Case Study: CRM Clustering
 (link zum Projekt)
 
