@@ -8,3 +8,4 @@ This project focused on clustering existing customers of a fitness e-commerce co
 
 ![Mein Bild](assets/img/FRS_boxplot.png)
 ![Mein Bild](assets/img/violinplots_2.png)
+![Mein Bild](assets/img/FRS_Verteilung.png)
